@@ -1,0 +1,17 @@
+{
+  "name": "My Notes",
+  "short_name": "My Notes",
+  "description": "달력에 할 일·메모·복습 기록을 함께 정리하는 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f9",
+  "theme_color": "#0e2350",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
