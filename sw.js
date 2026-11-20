@@ -1,5 +1,5 @@
 /* My Notes 서비스 워커 — 화면을 고쳐 올릴 때마다 VERSION을 올리세요 (mynotes-v2, v3 …) */
-const VERSION = "mynotes-v2";
+const VERSION = "mynotes-v3";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/maskable-512.png", "./icons/apple-touch-icon.png"];
 const XLSX_URL = "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js";
 
